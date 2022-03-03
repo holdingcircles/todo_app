@@ -76,7 +76,7 @@ componentDidUpdate() {
           </div>
         
         <div className="tasks-grid-container">
-          <h1 className="tasks-title title is-4">Tasks </h1>
+          <h1 className="tasks-title title is-4">SHopping List Items </h1>
           <h1 className="tip-text Tasks-title subtitle is-6">Tip: click on an item to mark it as done</h1>
 
             <DisplayTasks 
